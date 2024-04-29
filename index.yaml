@@ -3,7 +3,7 @@ entries:
   clarus-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-29T15:49:04.282834331Z"
+    created: "2024-04-29T15:56:06.010285607Z"
     description: A Helm chart for Kubernetes
     digest: c2742eb621b22c90ad8e21cd414f7c28036104e88de4e608a9949b3c4f1e8d5d
     name: clarus-chart
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-29T15:49:04.280863237Z"
+    created: "2024-04-29T15:56:06.010022085Z"
     description: A Helm chart for Kubernetes
     digest: 27aea3406e4a62882a73a89e41bd8d79efc15d25de8fbf2230d94e519a5ac7cd
     name: clarus-chart
@@ -24,7 +24,7 @@ entries:
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-29T15:49:04.286008656Z"
+    created: "2024-04-29T15:56:06.011087276Z"
     description: A Helm chart for Kubernetes
     digest: 894775429f9a0df44eac8a4fe3ee4d201f4a227d5384faf96073bbcc2c62cb6a
     name: demogitrepo
@@ -35,12 +35,22 @@ entries:
   second-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-29T15:49:04.28913324Z"
+    created: "2024-04-29T15:56:06.014609634Z"
     description: A Helm chart for Kubernetes
-    digest: 2c68e13b914ba130cef219006c2da626e7e49bccf65b405ea1e3f5967ae23143
+    digest: 91c4934d8a014a589a1e089b5412051b9399a64ce16ede6c1df20195b92c8bd1
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-29T15:56:06.012947556Z"
+    description: A Helm chart for Kubernetes
+    digest: 21cc2301793a70c9a2d618b504f4ae137157863ae0e1a1617d8c4f8cd5b34897
     name: second-chart
     type: application
     urls:
     - second-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-29T15:49:04.279768998Z"
+generated: "2024-04-29T15:56:06.00956319Z"
