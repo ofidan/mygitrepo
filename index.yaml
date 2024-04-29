@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  clarus-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-29T08:50:59.511522894Z"
+    description: A Helm chart for Kubernetes
+    digest: 27aea3406e4a62882a73a89e41bd8d79efc15d25de8fbf2230d94e519a5ac7cd
+    name: clarus-chart
+    type: application
+    urls:
+    - clarus-chart-0.1.0.tgz
+    version: 0.1.0
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-29T08:49:41.777063483Z"
+    created: "2024-04-29T08:50:59.512513063Z"
     description: A Helm chart for Kubernetes
     digest: 894775429f9a0df44eac8a4fe3ee4d201f4a227d5384faf96073bbcc2c62cb6a
     name: demogitrepo
@@ -11,4 +22,4 @@ entries:
     urls:
     - demogitrepo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-29T08:49:41.774739563Z"
+generated: "2024-04-29T08:50:59.510924099Z"
